@@ -14,11 +14,11 @@ const NavBar = () => {
          
           <div className='md:pl-0 pl-3'>
              <Link to="/">
-              <h3 className="ml-1 text-xl font-semibold">Weather Checker</h3>
+              <h3 className="ml-1 text-xl font-semibold">Weather API</h3>
               </Link></div>
            
 
-            <div className="flex flex-1 items-center justify-end items-stretch justify-end md:pr-0 pr-3">
+            <div className="flex flex-1 md:pr-0 pr-3">
              
                 <div className="flex items-center space-x-4">
                   
